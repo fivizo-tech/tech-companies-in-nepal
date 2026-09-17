@@ -122,6 +122,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Expresiv Studios](https://expresivstudios.com/) | Dillibazar, Kathmandu | UI/UX Design for Mobile, Web & Beyond
 - [Fatdog Labs](https://fatdoglabs.com/) | Baneshwor, Kathmandu | Web Application Development, Mobile Application Development, Android & iOS Application Development
 - [Fawesome Apps](https://fawesomeapps.com/) | Putalisadak, Kathmandu | We make friggin’ awesome apps
+- [Fivizo Tech and Marketing](https://fivizo.com/) | Satdobato, Lalitpur | Expert Software and website Development, SEO strategies and Professional Digital Marketing services
 - [FleetPanda](https://www.fleetpanda.com/) | Milan Chowk Marga, Kathmandu | Delivery management platform, offering route optimization, real-time tracking, and driver management for businesses with vehicle fleets
 - [Fusemachines Nepal Pvt. Ltd.](https://fusemachines.com.np/) | Hattisar, Kathmandu | We create intelligent software solutions that transform brands, grow businesses and make people's lives easier
 - [F1Soft International](https://f1soft.com/) | Pulchowk, Lalitpur | FinTech company providing services to more than 90% of the banks and financial institutions in the country
